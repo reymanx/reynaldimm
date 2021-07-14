@@ -6,10 +6,7 @@ categories:
 tags:
   - Jekyll
   - update
-layout: post
 ---
-abcd
-
 ## Cerita awal
 Dari dulu suka gonta ganti blog, sekedar untuk memuaskan penasaran. Udah beberapa tahun pakai php-mysql-apache, biasa hosting di server sendiri. Pernah coba pakai [DigitalOcean](https://digitalocean.com) , pernah pakai server gratisan, pernah nyempil di hosting kantor.
 
@@ -27,11 +24,3 @@ Jadi ini semua yang saya pakai. Untuk desktop, saya install:
 3. [Visual Studio](https://visualstudio.com) untuk IDE atau editornya.
 4. [Jekyll](https://jekyllrb.com) Di local (komputer sendiri) juga diinstall Jekyll, agar kita bisa cek gimana hasil web yang kita kerjakan sebelum kita upload ke GitHub. Bisa diakses di http://localhost:4000. 
 Ya, kurang lebih ini yang saya pakai. Kalau ada masukan bisa langsung email aja, saya belum bisa menambah `comment` jadi belum ada comment disini. :) 
-
-### Untuk tau lebih banyak soal Jekyll dan Static Site Generator
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
