@@ -1,8 +1,12 @@
 ---
+title: "Pakai Static Site Generator"
+date: 2021-07-13 10:10:0 +0700
+categories:
+  - blog
+tags:
+  - Jekyll
+  - update
 layout: post
-title:  "Pakai Static Site Generator"
-date:   2021-07-13 10:10:0 +0700
-categories: Personal
 ---
 ## Cerita awal
 Dari dulu suka gonta ganti blog, sekedar untuk memuaskan penasaran. Udah beberapa tahun pakai php-mysql-apache, biasa hosting di server sendiri. Pernah coba pakai [DigitalOcean](https://digitalocean.com) , pernah pakai server gratisan, pernah nyempil di hosting kantor.
