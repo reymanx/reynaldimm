@@ -8,6 +8,8 @@ tags:
   - update
 layout: post
 ---
+abcd
+
 ## Cerita awal
 Dari dulu suka gonta ganti blog, sekedar untuk memuaskan penasaran. Udah beberapa tahun pakai php-mysql-apache, biasa hosting di server sendiri. Pernah coba pakai [DigitalOcean](https://digitalocean.com) , pernah pakai server gratisan, pernah nyempil di hosting kantor.
 
