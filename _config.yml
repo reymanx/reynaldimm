@@ -1,3 +1,10 @@
+reCaptcha:
+enabled: true
+# the siteKey is used as-is (no encryption)
+siteKey: 6Lex5aobAAAAANA9SdGR2CN3GxSenTSrXUy-NWq1
+# the secret is the encrypted blob you got back from the encrypt call
+secret: WaBHfDGvE2umGKqI7R/vLr6wm78d3Q+oI2f0RUPkhusiOhM6q+C0X5MnQtxgxxHvOFUyj4WUTDi1F3XKuylBjW9XMwl9ktvgYN6/OzY596gou9YUwQyouPM05B3qoUPq0SUk8fajlRor66bFCWfQSOtO/LEOPWdIqcAW5IzPk1U=
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
