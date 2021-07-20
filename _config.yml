@@ -125,4 +125,4 @@ tag_archive:
 #
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
-staticman_url: https://reynaldi-staticman.herokuapp.com/v2/entry/reymanx/reynaldimm/master/comments
+staticman_url: https://reynaldi-staticman-2.herokuapp.com/v2/entry/reymanx/reynaldimm/master/comments
