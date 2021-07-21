@@ -56,9 +56,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 comments:
-#  provider: "disq"
-#  disqus:
-#    shortname: "reymanx"
+  provider: "disqus"
+  disqus:
+    shortname: "reymanx"
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -135,5 +135,5 @@ tag_archive:
 #
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
-staticman_url: https://reynaldi-staticman-2.herokuapp.com/v2/entry/reymanx/reynaldimm/master/comments
-enableComments: true
+#staticman_url: https://reynaldi-staticman-2.herokuapp.com/v2/entry/reymanx/reynaldimm/master/comments
+#enableComments: true
