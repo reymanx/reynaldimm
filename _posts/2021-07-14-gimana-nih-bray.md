@@ -1,5 +1,6 @@
 ---
 title: "Gimana bray"
+comments: true
 categories:
   - Blog
 tags:
