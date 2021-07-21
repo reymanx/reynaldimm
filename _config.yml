@@ -55,7 +55,8 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+disqus:
+  shortname: reymanx
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
