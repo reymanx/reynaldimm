@@ -17,6 +17,3 @@ Gue: Gajelaaasss..
 Kira2 cucok meong kah
 atau sebenernya gak jelas geetoooo
 
-{% if page.comments == true %}
-  {% include comments.html %}
-{% endif %}
