@@ -67,6 +67,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-admin
 
 author:
   name   : "Arie Reynaldi Z"
