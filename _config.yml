@@ -137,3 +137,12 @@ tag_archive:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
 #staticman_url: https://reynaldi-staticman-2.herokuapp.com/v2/entry/reymanx/reynaldimm/master/comments
 #enableComments: true
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
